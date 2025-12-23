@@ -103,4 +103,11 @@ public class LinkedListDeque<T> {
 
         return gethelper(index, begin);
     }
+
+    /*
+        going to do :
+        public Iterator<T> iterator() {}
+        public boolean equals(Object o) {}
+     */
+
 }
